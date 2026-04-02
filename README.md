@@ -1,4 +1,4 @@
-# 🐶 概要
+# 🐶 ogata-ryosuke
 
 サーバーサイド・フロントエンド・モバイルアプリまで幅広く対応可能なフルスタックエンジニアです。
 要件定義から設計・開発・リリースまで一貫して推進できることが強みです。
@@ -13,3 +13,9 @@
 | Backend | Python, Ruby on Rails, PHP, Kotlin, Java |
 | Infrastructure | AWS, GCP, Terraform, Firebase, ELK Stack |
 | AI / LLM | OpenAI, LangSmith, promptfoo |
+
+## 📮 お問い合わせ
+
+お仕事のご相談はお気軽にどうぞ。
+
+📧 ogata.ryosuke@variantcode.co.jp
