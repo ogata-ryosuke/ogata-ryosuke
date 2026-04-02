@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🐶 概要
 
-<!--
-**ogata-ryosuke/ogata-ryosuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+サーバーサイド・フロントエンド・モバイルアプリまで幅広く対応可能なフルスタックエンジニアです。
+要件定義から設計・開発・リリースまで一貫して推進できることが強みです。
 
-Here are some ideas to get you started:
+> [職務経歴書(Web版)をひらく](https://ogata-ryosuke.github.io/cs/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 得意技術
+
+| 分野 | 技術 |
+|---|---|
+| Frontend | Flutter, React, Next.js, TypeScript |
+| Backend | Python, Ruby on Rails, PHP, Kotlin, Java |
+| Infrastructure | AWS, GCP, Terraform, Firebase, ELK Stack |
+| AI / LLM | OpenAI, LangSmith, promptfoo |
