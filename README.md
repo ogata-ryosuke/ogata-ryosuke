@@ -9,10 +9,10 @@
 
 | 分野 | 技術 |
 |---|---|
-| Frontend | Flutter, React, Next.js, TypeScript |
+| Frontend | Flutter, React, TypeScript, Next.js |
 | Backend | Python, Ruby on Rails, PHP, Kotlin, Java |
 | Infrastructure | AWS, GCP, Terraform, Firebase, ELK Stack |
-| AI / LLM | OpenAI, LangSmith, promptfoo |
+| AI / LLM | OpenAI, LangSmith, promptfoo, Langfuse, RAG |
 
 ## 📮 お問い合わせ
 
